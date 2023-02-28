@@ -5,8 +5,8 @@ background-color:#ffe5d6;
     background-image: url(/images/first.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 1900px;
-    height: 80vh;
+    width: 1800px;
+    height: 70vh;
     background-position: center;
 
     
@@ -14,7 +14,7 @@ background-color:#ffe5d6;
 }
 .all{
     font-size: large;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 .photos{
 background-color: #ffffff;
