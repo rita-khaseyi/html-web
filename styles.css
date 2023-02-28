@@ -243,6 +243,9 @@ margin-bottom: 30%;
         .cozy{
             color: white;
         }
+        body{
+            font-family: 'Lato', sans-serif;
+        }
         button{
             background-color: #ffac7d;
             color: #2B547E;
