@@ -1,0 +1,298 @@
+.input{
+background-color:#ffe5d6;
+}
+.first{
+    background-image: url(/images/first.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 2000px;
+    height: 80vh;
+    background-position: center;
+
+    
+    
+}
+.all{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 10%;
+}
+.photos{
+background-color: #ffffff;
+
+}
+.hexa{
+ width: 250px;
+ height: 250px;
+ margin-left: 10%;
+
+}
+.pic{
+    width: 250px;
+    height: 250px;
+    margin-left: 4%;
+}
+.jas{
+    width: 250px;
+    height: 250px;
+    margin-left: 4%;
+    
+}
+
+
+.words{
+    margin-top: 3%;
+    margin-right: 1%;
+}
+.mod{
+margin-left: 14%;
+text-align: center;
+background-color: #ffac7d;
+font-size: x-large;
+}
+.cla{
+ margin-left: 12%;
+ font-size: x-large;
+}
+.sca{
+margin-left: 10%;
+font-size: x-large;
+}
+.button{
+text-align: center;
+margin-right: 16%;
+margin-top: 3%;
+}
+.how{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+.web{
+    width: 250px;
+    height: 250px;
+    margin-left: 4%;
+}
+.jpg{
+    width: 250px;
+    height: 250px;
+    margin-left: 4%;
+
+}
+.designs{
+    background-color: #2B547E;
+}
+.scan{
+color: blanchedalmond;
+margin-left: 10%;
+}
+.oak{
+color: blanchedalmond;
+margin-left: 10%;
+}
+.Rus{
+color: blanchedalmond;
+margin-left: 12%;
+
+}
+.para{
+    color: bisque;
+}
+.mon{
+
+}
+.p{
+    color: blanchedalmond;
+    margin-left: 12%;
+}
+.o{
+    color: blanchedalmond;
+    margin-left: 18%;
+}
+.u{
+    color: blanchedalmond;
+    margin-left: 14%;
+}
+.but{
+    text-align: center;
+    margin-right: 16%;
+    margin-top: 3%;
+
+}
+.dot {
+    height:600px;
+    width: 600px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    
+
+}
+.wor{
+    text-align: center;
+}
+.wording{
+
+}
+.war{
+text-align: center;
+color: #002d3d;
+}
+.cir{
+margin-top: 30%;
+margin-left: 20%;
+font-size: xx-large;
+color: #ffac7d;
+}
+    .ins{
+    
+margin-bottom: 30%;
+    }
+    .plant{
+    }
+    .im{
+        width: 400px;
+        height: 600px;
+
+
+    }
+
+    
+    .end{
+        background-color: #ffe5d6;
+        height: 600px;
+
+
+    }
+    .Join{
+        text-align: center;
+        }
+        .j{
+         
+        }
+        .h{
+            color: #2B547E;
+            font-size: x-large;
+        }
+        .face{
+            width: 30px;
+            height: 30px;
+            background-color: #bbb;
+        }
+        .insta{
+            width: 30px;
+            height: 30px;
+        margin-left: 3%;
+         background-color: #bbb;  
+          }
+            .pin{
+                width: 30px;
+                height: 30px;
+                margin-left: 3%;
+                background-color: #bbb;
+                             
+            }
+            .contact{
+                float: right;
+      
+            }
+        footer{
+            background-color: #2B547E;
+            color: #bbb;
+        }  
+        a{
+            color: #bbb;
+            text-decoration: none;
+        } 
+        .ul{
+            padding-left: 0;
+        }
+        .body{
+            display: flex;
+        }
+        .main{
+            padding: 1.25rem;
+            min-width: 12.5rem;
+        }
+        .explore{
+            font-size: xx-large;
+            color: #002d3d;
+            margin-left: 6%;
+            margin-top: 2%
+           
+            ;
+        }
+        .popular{
+            font-size: xx-large;
+            color: #ffac7d;
+            margin-left: 4%;
+            margin-top: 2%;
+        }
+        .head{
+        color: #ffe5d6;
+        }
+        .parag{
+            color: #ffac7d;
+        }
+        .photos{
+            color: #002d3d;
+        }
+        .cozy{
+            color: white;
+        }
+        button{
+            background-color: #ffac7d;
+            color: #2B547E;
+            padding: 20px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 10%;
+        }
+        .topnavbar{
+        }
+        .active{
+            margin-left: 10%;
+            font-size: x-large;
+            color: #ffe5d6;
+
+        }
+        .shop{
+            margin-left: 6%;
+            font-size: x-large;
+            color:#ffac7d;
+
+        }
+        .style{
+            margin-left: 6%;
+            font-size:x-large;
+            color: #ffac7d;
+
+        }
+
+        .offers{
+            margin-left: 6%;
+            font-size: x-large;
+            color: #ffac7d;
+        }
+        .input{
+            margin-left: 3%;
+            padding: 10px 120px;
+            text-align: left;
+            
+        }
+        .icons{
+            size: 30px;
+        }
+        .pics{
+            float: right;
+            margin-top: 3%;
+            width: 500px;
+            height: 500px;
+            margin-right: 40%;
+        }
+    
+                
+        
+    
