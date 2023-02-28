@@ -12,11 +12,14 @@ background-color:#ffe5d6;
     
     
 }
+.go{
+    padding: 8px 16px;
+}
 .all{
     font-size: large;
     margin-top: 8%;
     text-align: center;
-    margin-left: 16%;
+    margin-left: 14%;
 }
 .photos{
 background-color: #ffffff;
