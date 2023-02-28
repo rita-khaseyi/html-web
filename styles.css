@@ -120,8 +120,8 @@ margin-left: 12%;
 
 }
 .dot {
-    height:600px;
-    width: 600px;
+    height:400px;
+    width: 400px;
     background-color: #ffffff;
     border-radius: 50%;
     display: inline-block;
@@ -141,7 +141,7 @@ color: #002d3d;
 .cir{
 margin-top: 30%;
 margin-left: 20%;
-font-size: xx-large;
+font-size: x-large;
 color: #ffac7d;
 }
     .ins{
